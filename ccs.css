@@ -1,0 +1,57 @@
+.hone{
+    display: inline;
+}
+ul,li{
+    display: inline;
+}
+.navbar{
+    background-color: black;
+    color: gray;
+}
+ul{
+    margin-left: 70%;
+}
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+
+.search{
+    text-align: center;
+    margin-top: 40px;
+}
+
+input{
+    width: 70%;
+    height: 50px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.red{
+    border: solid black 2px;
+    width: 200px;
+    height: 260px;
+    padding: 10px;
+    display: inline-block;
+}
+.whole{
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+.footer{
+    text-align: center;
+}
+
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.b:hover{
+    color:blueviolet;
+}
